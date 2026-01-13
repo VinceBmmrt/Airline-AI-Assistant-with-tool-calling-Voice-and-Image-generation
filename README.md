@@ -78,24 +78,22 @@ This project aims to demonstrate:
 ## 🛠 Installation
 
 1. Clonez ce dépôt sur votre machine locale :
-   ```bash
-   git clone https://github.com/votre-utilisateur/company-brochure-generator.git
-   cd company-brochure-generator
-   ```
+2. 
+ git clone the repository then cd into it
 
-2. Installez **uv** d’Astral, un gestionnaire de dépendances et d’environnement Python moderne et performant :
+3. Install **uv** from Astral :
    ```bash
    pip install uv
    ```
 
-3. Installez les dépendances du projet et synchronisez l’environnement avec :
+4.Install project depencies and syncronize environment :
    ```bash
    uv sync
    ```
 
-4. Pour lancer le projet, utilisez la commande :
+5. Run the project :
    ```bash
-   uv run
+   uv run Airline_AI_Assistant_with_tool_calling.py
    ```
 
 ---
