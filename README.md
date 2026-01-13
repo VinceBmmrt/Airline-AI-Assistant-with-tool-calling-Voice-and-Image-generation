@@ -30,6 +30,12 @@ This project is part of an applied learning journey and demonstrates how a real-
 
 ---
 
+## 🎥 Demo
+
+▶️ **[Watch the demo video](https://drive.google.com/file/d/1BRsTY40Zcxef8q4byTOmL2JlMnml9WBi/view?usp=sharing)**
+
+---
+
 ## 🎨 Image Generation (Artist Tool)
 
 The project includes an image-generation function ("artist") powered by **DALL·E 3**.
@@ -67,11 +73,7 @@ This project aims to demonstrate:
 2. **Tool calling** integrated with a real database
 3. A practical step toward **agentic AI workflows**
 
----
 
-## 🎥 Demo
-
-▶️ **[Watch the demo video](https://drive.google.com/file/d/1BRsTY40Zcxef8q4byTOmL2JlMnml9WBi/view?usp=sharing)**
 
 ---
 
